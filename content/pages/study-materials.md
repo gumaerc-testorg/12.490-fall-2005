@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Study Materials section contains Classic Petrologic Localities for petrologic/geochemical
+  work.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -17,7 +19,7 @@ The following list consists of selected "classic" petrologic localities. These l
 4.  Distinctive structural, mineralogical and/or chemical features of the igneous rocks.
 5.  Historical context, role in evolution of thought, authors of the important papers and major conclusions.
 
-You should also think out for yourself the petrologic significance of each locality. For the older and more classic localities, you will be able to find summary descriptions in Carmichael, Turner and Verhoogen (1974), and even Bowen (1928) or Daly (1933) (see [readings]({{< baseurl >}}/pages/readings)). For these localities, secondary references will be sufficient and you don't have to read the treatises that were originally published. For other cases, you will want to refer to original work.
+You should also think out for yourself the petrologic significance of each locality. For the older and more classic localities, you will be able to find summary descriptions in Carmichael, Turner and Verhoogen (1974), and even Bowen (1928) or Daly (1933) (see {{% resource_link 5fa1e7f7-7000-f310-86cb-b9fc83d4d587 "readings" %}}). For these localities, secondary references will be sufficient and you don't have to read the treatises that were originally published. For other cases, you will want to refer to original work.
 
 ### Selected "Classic" Petrologic Localities
 
