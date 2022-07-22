@@ -6,6 +6,7 @@ file: /courses/12-490-advanced-igneous-petrology-fall-2005/ef32d445bf98db0a21da2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: aiplab2.pdf
 uid: ef32d445-bf98-db0a-21da-2b5e108efc3e
 ---
 The point of this lab is to refresh the memory of the appearance of the common rock forming feldspar and pyriboles in thin section.
-

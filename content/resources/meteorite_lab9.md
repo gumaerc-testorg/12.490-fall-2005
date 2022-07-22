@@ -6,6 +6,7 @@ file: /courses/12-490-advanced-igneous-petrology-fall-2005/d9103ffee152699dde212
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: meteorite_lab9.pdf
 uid: d9103ffe-e152-699d-de21-2623f7c0e821
 ---
 The purpose of this lab is to introduce to the variety of meteorites that we have in our sample collection.
-

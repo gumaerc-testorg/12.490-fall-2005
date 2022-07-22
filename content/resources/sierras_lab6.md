@@ -7,6 +7,7 @@ file: /courses/12-490-advanced-igneous-petrology-fall-2005/e6c0a7b605561767022ce
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: sierras_lab6.pdf
 uid: e6c0a7b6-0556-1767-022c-ecffaa8d9b73
 ---
 This set of samples is from the Academy pluton in the western foothills of the Sierra Nevada. The pluton is Jurassic ? Early Cretaceous in age and represents an excellent example of a zoned calc-alkaline pluton.
-

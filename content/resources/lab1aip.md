@@ -6,6 +6,7 @@ file: /courses/12-490-advanced-igneous-petrology-fall-2005/0e20e8e75c6f133430eb2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab1aip.pdf
 uid: 0e20e8e7-5c6f-1334-30eb-25209075ea4b
 ---
 The purpose of this lab is to show the natural assemblages of pyroxenes from a variety of tectonic settings.
-
