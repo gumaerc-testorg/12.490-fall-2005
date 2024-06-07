@@ -3,6 +3,7 @@ content_type: resource
 description: This lab is intended to give some first hand experience in identifying
   evidence of magma mixing and crustal contamination.
 file: /courses/12-490-advanced-igneous-petrology-fall-2005/e9977d6bd716d646507991018ac7d736_magma_mixing_lb5.pdf
+file_size: 67317
 file_type: application/pdf
 learning_resource_types:
 - Labs
