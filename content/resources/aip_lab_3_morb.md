@@ -5,7 +5,7 @@ description: 'The major goals of this lab are: 1) To introduce the accepted term
   between phenocryst assemblages in the aphyric lavas and chemical composition, 3)
   To provide examples of textural characteristics that indicate the operation of open
   system magmatic processes.'
-file: /ol-ocw-studio-app/courses/12-490-advanced-igneous-petrology-fall-2005/199d1887980218bf5c04c4006c286830_aip_lab_3_morb.pdf
+file: /courses/12-490-advanced-igneous-petrology-fall-2005/199d1887980218bf5c04c4006c286830_aip_lab_3_morb.pdf
 file_size: 97433
 file_type: application/pdf
 learning_resource_types:
