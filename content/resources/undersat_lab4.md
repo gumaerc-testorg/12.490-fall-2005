@@ -2,7 +2,7 @@
 content_type: resource
 description: The purpose of this laboratory is to get acquainted with the various
   types of silica-undersaturated volcanic and intrusive rocks.
-file: /ol-ocw-studio-app/courses/12-490-advanced-igneous-petrology-fall-2005/6742c0a36ba0b8a3d71befe026b88b64_undersat_lab4.pdf
+file: /courses/12-490-advanced-igneous-petrology-fall-2005/6742c0a36ba0b8a3d71befe026b88b64_undersat_lab4.pdf
 file_size: 65384
 file_type: application/pdf
 learning_resource_types:
