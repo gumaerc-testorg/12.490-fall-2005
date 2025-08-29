@@ -3,7 +3,7 @@ content_type: page
 description: Labs section contains the labs completed by the students using thin sections
   from the MIT collection.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: cbd915b9-4ab8-8811-5f2c-0415b038b3ae
